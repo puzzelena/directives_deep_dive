@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+  }
+  
+  .odd {
+    color: red;
+  }
+  
+  .even {
+    color: blue;
+  }
+  
